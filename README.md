@@ -110,5 +110,45 @@ RetailPulse
 - Automated ETL Pipeline
 - Model Monitoring
 
+## Dashboard Features
 
+- Interactive KPI Cards
+- Country Filter
+- Date Filter
+- Monthly Revenue Trend
+- Top 10 Countries
+- Top Products
+- Top Customers
+- Revenue Distribution
+- Dataset Preview
+- Download Filtered Dataset
 
+---
+
+## Technologies
+
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- NumPy
+- Scikit-learn
+
+---
+
+## Folder Structure
+
+```
+RetailPulse-AI-Customer-Analytics
+│
+├── app.py
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── .gitignore
+├── data
+├── notebooks
+├── screenshots
+├── report
+└── presentation
+```
