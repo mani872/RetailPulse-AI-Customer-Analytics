@@ -105,14 +105,14 @@ git clone https://github.com/mani872/RetailPulse-AI-Customer-Analytics.git
 cd RetailPulse-AI-Customer-Analytics
 pip install -r requirements.txt
 streamlit run app.py
+```
 
-###📸 Screenshots
+## 📸 Screenshots
 Screenshot 2026-07-06 130118
 
-👨‍💻 Author
-
+## 👨‍💻 Author
 Golli Manideep
 
-🌐 6. LIVE DEPLOYMENT
+##🌐 6. LIVE DEPLOYMENT
 👉 Streamlit live link
 https://retailpulse-ai-customer-analytics-htts45v9mu3xehowjkro2j.streamlit.app/
