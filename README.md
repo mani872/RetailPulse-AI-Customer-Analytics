@@ -108,7 +108,7 @@ streamlit run app.py
 ```
 
 ## 📸 Screenshots
-Screenshot 2026-07-06 130118
+Screenshot2026-07-06130118.png
 
 ## 👨‍💻 Author
 Golli Manideep
