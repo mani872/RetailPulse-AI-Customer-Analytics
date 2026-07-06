@@ -1,7 +1,5 @@
-# RetailPulse-AI-Customer-Analytics
-AI-powered Retail Analytics platform for customer segmentation, sales analysis and demand forecasting using Machine Learning and Streamlit.
-
 # RetailPulse – AI-Powered Customer Analytics & Demand Forecasting Platform
+AI-powered Retail Analytics platform for customer segmentation, sales analysis and demand forecasting using Machine Learning and Streamlit.
 
 ## Overview
 
