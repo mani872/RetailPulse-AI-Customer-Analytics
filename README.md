@@ -108,7 +108,8 @@ streamlit run app.py
 ```
 
 ## 📸 Screenshots
-Screenshot2026-07-06130118.png
+Screenshot2026-07-06130118.png<img width="1918" height="921" alt="Screenshot 2026-07-06 130118" src="https://github.com/user-attachments/assets/94d34d81-19e1-44cd-a982-4041a773e59b" />
+
 
 ## 👨‍💻 Author
 Golli Manideep
