@@ -113,6 +113,7 @@ Screenshot2026-07-06130118.png
 ## 👨‍💻 Author
 Golli Manideep
 
-##🌐 6. LIVE DEPLOYMENT
+## 🌐 6. LIVE DEPLOYMENT
 👉 Streamlit live link
+
 https://retailpulse-ai-customer-analytics-htts45v9mu3xehowjkro2j.streamlit.app/
